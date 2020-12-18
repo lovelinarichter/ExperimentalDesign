@@ -1,4 +1,4 @@
-# ExperimentalDesign
+# Experimental Design and Recommendations
 
 ## Description
 For this project the task is to analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations about new articles that users will like.
